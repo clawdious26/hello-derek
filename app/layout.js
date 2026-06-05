@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Hello, Derek',
-  description: 'A gloriously overdesigned hello world for Derek.'
+  title: 'Hello Denys!',
+  description: 'A gloriously overdesigned 2000s internet greeting for Denys.'
 };
 
 import './globals.css';
